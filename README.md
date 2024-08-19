@@ -1,6 +1,6 @@
 # Robot-Legs-3D-Design
 
-This repository is a TinkerCade File that contains a 3D Model design for Robot legs model.
+This repository is a TinkerCad File that contains a 3D Model design for Robot legs model.
 
 
 # About the Project
